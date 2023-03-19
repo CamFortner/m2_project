@@ -1,0 +1,15 @@
+VIDEO NOTES -
+blog - app
+django_project - config
+
+HELPFUL DEBUGGING NOTES -
+tree helps you see where things are
+
+TEMPLATES -
+to avoid confusion if we have more than one app
+-> app -> templates -> app -> template.html
+
+BOOTSTRAP - allows you to add nice styles to your code
+
+
+CREATE A READ.MD -
